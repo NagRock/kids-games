@@ -1,0 +1,21 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  color: blue;
+  text-align: center;
+  min-width: 200px;
+  margin-top: 200px;
+  padding: 20px;
+  background-color: mediumpurple;
+  border-radius: 10px;
+  font-size: 50px;
+}
+
+.timeLeft {
+
+}
